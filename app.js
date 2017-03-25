@@ -1,4 +1,4 @@
-var SerialPort = require("serialport").SerialPort;
+var SerialPort = require("serialport");
 
 var mySerialport = new SerialPort("/dev/tty.usbmodem1421", {
   parser: SerialPort.parsers.readline('\n')
