@@ -1,5 +1,5 @@
 {
-  "name": "arduino-cylon",
+  "name": "humidity-sensor-arduino",
   "version": "1.0.0",
   "description": "connect to arduino serial port",
   "main": "app.js",
